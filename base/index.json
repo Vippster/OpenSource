@@ -440,6 +440,14 @@
 			},
 			"icon": "gdrbdlc",
 			"type": "rb"
+		},
+		{
+			"ids": [ "fortnitefestival", "fnf" ],
+			"names": {
+				"en-US": "Fortnite Festival"
+			},
+			"icon": "fortnite_festival",
+			"type": "game"
 		}
 	]
 }
