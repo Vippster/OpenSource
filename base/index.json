@@ -448,6 +448,14 @@
 			},
 			"icon": "fortnite_festival",
 			"type": "game"
+		},
+		{
+			"ids": [ "stagetour", "stage_tour" ],
+			"names": {
+				"en-US": "Stage Tour"
+			},
+			"icon": "stage_tour",
+			"type": "game"
 		}
 	]
 }
