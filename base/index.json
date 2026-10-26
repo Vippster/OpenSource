@@ -456,6 +456,14 @@
 			},
 			"icon": "stage_tour",
 			"type": "game"
+		},
+		{
+			"ids": [ "stagetourdlc", "stage_tour_dlc" ],
+			"names": {
+				"en-US": "Stage Tour DLC"
+			},
+			"icon": "stage_tour_dlc",
+			"type": "game"
 		}
 	]
 }
